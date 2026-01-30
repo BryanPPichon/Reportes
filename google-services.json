@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "68393732266",
+    "project_id": "plan-de-lealtad-5cbd9",
+    "storage_bucket": "plan-de-lealtad-5cbd9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68393732266:android:68e4ef2d91e67c1c27a8d3",
+        "android_client_info": {
+          "package_name": "com.vmasideas.gourmetcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68393732266-fgg57ifulrdj5qanr9cjc3tdghgo6qrr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vmasideas.gourmetcard",
+            "certificate_hash": "c35f43264e3a353688f13393b3ae082fdd338409"
+          }
+        },
+        {
+          "client_id": "68393732266-3qfr0cjclh6me4ti45hmktqqfnjcvc1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt0681jke4VfKBU6VZx2tWlXIUgXDnMuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68393732266-3qfr0cjclh6me4ti45hmktqqfnjcvc1n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68393732266-8lrluus6apvf6th2g23ripls0eoalqtt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vmasideas.gourmetcardapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68393732266:android:9bf8bf34f37a3e0d27a8d3",
+        "android_client_info": {
+          "package_name": "com.vmasideas.gourmetcardapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68393732266-ckle4oa83d7e533jbo3g6v66camt2c4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vmasideas.gourmetcardapp",
+            "certificate_hash": "c35f43264e3a353688f13393b3ae082fdd338409"
+          }
+        },
+        {
+          "client_id": "68393732266-3qfr0cjclh6me4ti45hmktqqfnjcvc1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt0681jke4VfKBU6VZx2tWlXIUgXDnMuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68393732266-3qfr0cjclh6me4ti45hmktqqfnjcvc1n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68393732266-8lrluus6apvf6th2g23ripls0eoalqtt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vmasideas.gourmetcardapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
