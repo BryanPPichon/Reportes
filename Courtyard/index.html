@@ -9,6 +9,15 @@
 </head>
 
 <body>
+    <div id="navbar-placeholder"></div>
+    <script>
+        fetch('/header.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('navbar-placeholder').innerHTML = data;
+            })
+            .catch(error => console.error('Error loading header:', error));
+    </script>
     <div class="container">
         <header>
             <h1>📊 Análisis de Usuarios - Courtyard</h1>
